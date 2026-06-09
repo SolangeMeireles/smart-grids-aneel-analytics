@@ -1,0 +1,5 @@
+id_projeto,tipo_solicitacao,fase_atual,dias_corridos,limite_regulatorio
+PRJ-001,Conexao BT,Vistoria,4,5
+PRJ-002,Conexao MT,Analise de Projeto,22,3
+PRJ-003,Conexao BT,Ligacao,7,5
+PRJ-004,Conexao MT,Analise de Projeto,35,3

@@ -1,0 +1,4 @@
+id_projeto,tipo_solicitacao,fase_atual,dias_corridos,limite_regulatorio,Status_Auditoria,Dias_Desvio
+PRJ-002,Conexao MT,Analise de Projeto,22,3,⚠️ ESTOURADO,19
+PRJ-003,Conexao BT,Ligacao,7,5,⚠️ ESTOURADO,2
+PRJ-004,Conexao MT,Analise de Projeto,35,3,⚠️ ESTOURADO,32
